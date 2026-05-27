@@ -70,6 +70,19 @@ These images show a small helper tool used during ESP32 soldering and board prep
   - Character-style interaction and feedback
   - User-facing command and status interface
 
+## CAD Files and Print Count
+
+| CAD File | Purpose | Print Quantity |
+| --- | --- | --- |
+| `Tank_body_48mm_V4.2.step` | Main tank body; contains two TT motors. | 1 |
+| `tank_body_cover_V4.3.step` | First-layer top cover; mounts ESP32-C3 and L9110. | 1 |
+| `tank_body_cover_RPi.step` | Second-layer top cover for Raspberry Pi 5 and battery module. Same function as `tank_body_cover_RPi_V1.1.step`, with a different height for wiring space options. | 1 |
+| `tank_body_cover_RPi_V1.1.step` | Second-layer top cover for Raspberry Pi 5 and battery module. Same function as `tank_body_cover_RPi.step`, with a different height for wiring space options. | 1 |
+| `sprocket_tank track 4_10teeth_V2.1.step` | Driving sprocket. | 2 |
+| `sprocket_tank track 4_10teeth_V2.2.step` | Passive sprocket. | 2 |
+| `Sprocket and track V4.1.step` | Tank track. | 2 |
+| `ESP32_soldering_holder_v1.1.step` | ESP32 soldering holder tool. | 1 |
+
 ## Hardware Scope
 
 The hardware setup for this project is centered around:
