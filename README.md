@@ -97,6 +97,11 @@ The hardware setup for this project is centered around:
 
 ## Additional Assembly Parts
 
+- **Raspberry Pi 5**: `1`
+- **18650 battery holder**: `1`
+- **18650 battery**: `1`
+- **ESP32-C3 Mini**: `1`
+- **L9110 motor driver**: `1`
 - **M3 heat-set threaded inserts (female)**
   - Height: `6 mm`
   - Outer diameter: `3.5 mm`
@@ -105,7 +110,6 @@ The hardware setup for this project is centered around:
   - Flat-head type is recommended to avoid touching the bottom surface of the Raspberry Pi
 - **M2.5 brass standoffs and bolts** (as needed)
   - For mounting the Raspberry Pi and battery module
-- **`18650` battery**: `1`
 - **Dupont wires**: several pieces (as needed)
 
 ## Project Status
