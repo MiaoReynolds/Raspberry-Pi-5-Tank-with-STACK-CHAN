@@ -95,6 +95,19 @@ The hardware setup for this project is centered around:
 - STACK-CHAN-compatible hardware modules
 - Optional peripherals: camera, ultrasonic sensor, IMU, servos
 
+## Additional Assembly Parts
+
+- **M3 heat-set threaded inserts (female)**
+  - Height: `6 mm`
+  - Outer diameter: `3.5 mm`
+  - Installation: press in with a flat-tip soldering iron
+- **M3 bolts (`35-38 mm`)**
+  - Flat-head type is recommended to avoid touching the bottom surface of the Raspberry Pi
+- **M2.5 brass standoffs and bolts** (as needed)
+  - For mounting the Raspberry Pi and battery module
+- **`18650` battery**: `1`
+- **Dupont wires**: several pieces (as needed)
+
 ## Project Status
 
 - Documentation phase
